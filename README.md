@@ -135,7 +135,10 @@ If I didn’t understand something, I looked it up (Google, ChatGPT, docs), then
 
 This approach helped me understand **how scripts actually work**, not just what they output.
 
-If you’re new, I recommend starting with:
+## 👉 Start with this reference
 - [Understanding a Simple Bash Script Skeleton](notes/script_skeleton.md)
+
+## 📜 Scripts
+- [01 – Hello World](scripts/01_hello_world.sh)
 
 Use it as a reference, rebuild it by hand, and don’t rush.
