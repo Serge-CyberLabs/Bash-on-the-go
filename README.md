@@ -64,7 +64,7 @@ Almost every Bash script I practiced followed the same basic structure:
 
 #!/bin/sh
 
-# Comments explaining what the script does
+#Comments explaining what the script does
 
 echo "Hello, world"
 
