@@ -12,11 +12,12 @@ Why This Repo Exists
 I didn’t always have the luxury of sitting at home with a laptop and hours of uninterrupted study time.
 
 Most of my learning happened:
-	•	on work breaks
-	•	waiting for coffee or lunch
-	•	sitting in the car
-	•	at the airport
 
+- on work breaks
+- waiting for coffee or lunch
+- sitting in the car
+- at the airport
+	
 Instead of letting those moments go to waste, I looked for a way to stay consistent — even in small windows of time. That’s when I started using iSH, a lightweight Linux terminal app for iOS.
 
 iSH gave me a real command-line environment in my pocket. It wasn’t perfect, but it was real enough to help me build familiarity, confidence, and muscle memory with Bash and Linux basics.
@@ -26,16 +27,18 @@ iSH gave me a real command-line environment in my pocket. It wasn’t perfect, b
 🛠 Why iSH?
 
 iSH runs Alpine Linux, which makes it:
-	•	fast
-	•	minimal
-	•	strict (in a good way)
 
+- fast
+- minimal
+- strict (in a good way)
+	
 That strictness forced me to:
-	•	understand file permissions
-	•	learn why scripts don’t run
-	•	pay attention to shebangs
-	•	slow down and actually read errors
 
+- understand file permissions
+- learn why scripts don’t run
+- pay attention to shebangs
+- slow down and actually read errors
+	
 In other words, it didn’t let me “fake it.”
 
 ⸻
@@ -45,14 +48,16 @@ In other words, it didn’t let me “fake it.”
 Instead of trying to memorize commands or follow long tutorials, I took a rebuild-first approach.
 
 Here’s what that looked like:
-	1.	Find a very simple Bash script
-	2.	Break it apart line by line
-	3.	Ask: What does this line actually do?
-	4.	Delete it
-	5.	Rebuild it manually
-	6.	Run it
-	7.	Break it again
-	8.	Fix it
+
+1.	Find a very simple Bash script
+2.	Break it apart line by line
+3.	Ask: What does this line actually do?
+4.	Delete it
+5.	Rebuild it manually
+6.	Run it
+7.	Break it again
+8.	Fix it
+	
 
 I wasn’t trying to be fast — I was trying to be clear.
 
@@ -69,9 +74,11 @@ Almost every Bash script I practiced followed the same basic structure:
 echo "Hello, world"
 
 I learned to recognize:
-	•	the shebang (what interpreter runs the script)
-	•	comments (for humans, not the machine)
-	•	commands (what actually executes)
+
+- the shebang (what interpreter runs the script)
+- comments (for humans, not the machine)
+- commands (what actually executes)
+	
 
 Once I could recognize that skeleton, scripts stopped looking intimidating — they became readable.
 
@@ -80,10 +87,12 @@ Once I could recognize that skeleton, scripts stopped looking intimidating — t
 🧪 Practicing in Small Moments
 
 Because iSH lived on my phone, I could:
-	•	open it for 5–10 minutes
-	•	type commands by hand
-	•	re-run scripts from memory
-	•	experiment without fear of “breaking my system”
+
+- open it for 5–10 minutes
+- type commands by hand
+- re-run scripts from memory
+- experiment without fear of “breaking my system”
+	
 
 Those small moments added up.
 
@@ -92,10 +101,12 @@ Consistency mattered more than comfort.
 ⸻
 
 📂 What You’ll Find in This Repo
-	•	Beginner Bash scripts I rebuilt by hand
-	•	Scripts tested specifically in iSH / Alpine Linux
-	•	Clear comments explaining why each line exists
-	•	Mistakes I made (and fixed) along the way
+
+- Beginner Bash scripts I rebuilt by hand
+- Scripts tested specifically in iSH / Alpine Linux
+- Clear comments explaining why each line exists
+- Mistakes I made (and fixed) along the way
+	
 
 If you’re new to Bash or Linux, you don’t need a full lab to start — just curiosity and consistency.
 
