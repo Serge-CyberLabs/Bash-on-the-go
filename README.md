@@ -138,9 +138,9 @@ This approach helped me understand **how scripts actually work**, not just what 
 ## 👉 Start with this reference
 - [Understanding a Simple Bash Script Skeleton](notes/script_skeleton.md)
 
+- [iSH Bash Cheat Sheet](notes/ish_cheat_sheet.md)
+
 ## 📜 Scripts
 - [01 – Hello World](scripts/01_hello_world.sh)
-
-- [iSH Bash Cheat Sheet](notes/ish_cheat_sheet.md)
 
 Use it as a reference, rebuild it by hand, and don’t rush.
