@@ -141,4 +141,6 @@ This approach helped me understand **how scripts actually work**, not just what 
 ## 📜 Scripts
 - [01 – Hello World](scripts/01_hello_world.sh)
 
+- [iSH Bash Cheat Sheet](notes/ish_cheat_sheet.md)
+
 Use it as a reference, rebuild it by hand, and don’t rush.
