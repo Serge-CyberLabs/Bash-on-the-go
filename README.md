@@ -108,3 +108,23 @@ I’ve learned that faithfulness in small things matters.
 Learning this way taught me patience, discipline, and humility — skills that matter just as much in tech as they do in life.
 
 “Whoever is faithful in little is faithful also in much.” — Luke 16:10
+
+## 🚀 Start Here
+
+When I began learning Bash, I didn’t try to memorize commands or copy scripts blindly.
+
+Instead, I rebuilt very simple scripts **line by line** and asked questions at every step:
+
+- What is this line?
+- Why is it here?
+- What happens if I remove it?
+- What breaks if I change it?
+
+If I didn’t understand something, I looked it up (Google, ChatGPT, docs), then came back and rebuilt the script from scratch.
+
+This approach helped me understand **how scripts actually work**, not just what they output.
+
+If you’re new, I recommend starting with:
+- [Understanding a Simple Bash Script Skeleton](notes/script_skeleton.md)
+
+Use it as a reference, rebuild it by hand, and don’t rush.
