@@ -135,12 +135,15 @@ If I didn’t understand something, I looked it up (Google, ChatGPT, docs), then
 
 This approach helped me understand **how scripts actually work**, not just what they output.
 
-## 👉 Start with this reference
+## 👉 Start with the bare bones
+
 - [Understanding a Simple Bash Script Skeleton](notes/script_skeleton.md)
 
 - [iSH Bash Cheat Sheet](notes/ish_cheat_sheet.md)
 
 ## 📜 Scripts
+
 - [01 – Hello World](scripts/01_hello_world.sh)
+- [02 – Variables](scripts/02_variables.sh)
 
 Use it as a reference, rebuild it by hand, and don’t rush.
