@@ -141,7 +141,6 @@ This approach helped me understand **how scripts actually work**, not just what 
 
 - [iSH Bash Cheat Sheet](notes/ish_cheat_sheet.md)
 
-```md
 ## 📜 Scripts & Lessons
 
 Each script has a matching lesson.  
