@@ -18,14 +18,12 @@ This lesson builds directly on Hello World, so nothing here is complicated — j
 
 ⸻
 
-The Script (As Written)
-#!/bin/sh
+The Script (As Written):
 
-# This script demonstrates basic variables in Bash
-
-NAME="Serge"
-
-echo "Hello, $NAME"
+	#!/bin/sh   
+	# This script demonstrates basic variables in Bash
+	NAME="Serge" 
+	echo "Hello, $NAME"
 
 We’ll go through this line by line.
 
@@ -42,6 +40,7 @@ Line-by-Line Breakdown
 	•	/bin/sh works well in iSH / Alpine Linux
 	•	Without this, the script may not run at all
 
+
 📌 This line is not optional.
 
 ⸻
@@ -52,7 +51,7 @@ Line-by-Line Breakdown
 
 	•	Comments are for humans
 	•	Bash ignores anything after #
-	•	Use comments to explain why, not just what
+	•	Use comments to explain why, not just what 
 
 📌 Good comments help future you.
 
