@@ -146,5 +146,6 @@ This approach helped me understand **how scripts actually work**, not just what 
 - [01 – Hello World](scripts/01_hello_world.sh)
 - [02 – Variables](scripts/02_variables.sh)
 - [03 – User Input](scripts/03_user_input.sh)
+- [04 – If Statements](scripts/04_if_statements.sh)
 
 Use it as a reference, rebuild it by hand, and don’t rush.
