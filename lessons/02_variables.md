@@ -14,7 +14,7 @@ This lesson builds directly on Hello World, so nothing here is complicated — j
 🔗 Related Script
 
 📜 Script:
-02_variables.sh￼
+[02_variables.sh](scripts/02_variables.sh)
 
 ⸻
 
