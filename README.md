@@ -140,6 +140,7 @@ This approach helped me understand **how scripts actually work**, not just what 
 - [Understanding a Simple Bash Script Skeleton](notes/script_skeleton.md)
 
 - [iSH Bash Cheat Sheet](notes/ish_cheat_sheet.md)
+- [Nano Guide](notes/Nano_Guide.md)
 
 ## 📜 Scripts & Lessons
 
