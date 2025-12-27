@@ -141,11 +141,25 @@ This approach helped me understand **how scripts actually work**, not just what 
 
 - [iSH Bash Cheat Sheet](notes/ish_cheat_sheet.md)
 
-## 📜 Scripts
+```md
+## 📜 Scripts & Lessons
 
-- [01 – Hello World](scripts/01_hello_world.sh)
-- [02 – Variables](scripts/02_variables.sh)
-- [03 – User Input](scripts/03_user_input.sh)
-- [04 – If Statements](scripts/04_if_statements.sh)
+Each script has a matching lesson.  
+Read the lesson, then rebuild the script by hand.
 
-Use it as a reference, rebuild it by hand, and don’t rush.
+### 01 – Hello World
+- 📘 Lesson: [Hello World](lessons/01_hello_world.md)
+- 📜 Script: [01_hello_world.sh](scripts/01_hello_world.sh)
+
+### 02 – Variables
+- 📘 Lesson: [Variables](lessons/02_variables.md)
+- 📜 Script: [02_variables.sh](scripts/02_variables.sh)
+
+### 03 – User Input
+- 📘 Lesson: [User Input](lessons/03_user_input.md)
+- 📜 Script: [03_user_input.sh](scripts/03_user_input.sh)
+
+### 04 – If Statements
+- 📘 Lesson: [If Statements](lessons/04_if_statements.md)
+- 📜 Script: [04_if_statements.sh](scripts/04_if_statements.sh)
+
